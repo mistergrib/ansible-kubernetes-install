@@ -1,5 +1,5 @@
 ---
-- hosts: 10.2.10.1
+- hosts: kubernetes
   become: true
   tasks:
  
